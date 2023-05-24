@@ -1,2 +1,1 @@
-# extraction-service
-For extracting content and metadata from binary files
+Moved to https://github.com/elastic/data-extraction-service
